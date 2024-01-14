@@ -35,5 +35,4 @@ This project focuses on analyzing the security and reliability of SRAM-based Phy
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/Analysis-of-SRAM-PUF-With-STM32F103-Nucleo-64.git
-   cd Analysis-of-SRAM-PUF-With-STM32F103-Nucleo-64
+   git clone https://github.com/Victorvikson1996/Analysis-of-SRAM-PUF-With-STM32F103-Nucleo-64
